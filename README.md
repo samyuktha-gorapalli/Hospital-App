@@ -9,9 +9,8 @@ The primary goal of this project was to strengthen my understanding of OOP princ
 * Classes and objects
 * Encapsulation
 * Abstraction
-* Inheritance *(if implemented)*
-* Polymorphism *(if implemented)*
-* Modular program design
+* Inheritance
+* Polymorphism
 
 ## Features
 
